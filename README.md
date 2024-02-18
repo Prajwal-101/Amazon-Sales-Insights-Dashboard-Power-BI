@@ -1,11 +1,4 @@
-
 # Amazon Sales Dashboard
-
-<p align="right">
-  <img src="https://example.com/your_gif.gif" alt="Description of your GIF" width="300" height="300">
-</p>
-
-
 
 ### Problem Statement
 
