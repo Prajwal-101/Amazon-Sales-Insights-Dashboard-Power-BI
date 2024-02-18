@@ -1,6 +1,11 @@
+
 # Amazon Sales Dashboard
 
-## [Dashboard Link](https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection)
+<p align="right">
+  <img src="https://example.com/your_gif.gif" alt="Description of your GIF" width="300" height="300">
+</p>
+
+
 
 ### Problem Statement
 
@@ -31,12 +36,26 @@ Created 3 major pages which are "Overview", "Product", and "Product View" and al
 ![Screenshot 2024-02-18 163300](https://github.com/Prajwal-101/Amazon-Sales-Insights-Dashboard-Power-BI/assets/159109640/665fd131-cb60-4a56-b198-d6ae13d7d2e6)
 
    - Displays all products available in each category.
-   - Utilizes a Tooltip of "Product View" page to show detailed product information including full name, ID, sales amount, sales units, returns, and reviews as KPIs.
+   - I have created a Tooltip for the "Product View" page, which allows users to view detailed data for a specific product by hovering their cursor over it. 
+
+   The tooltip displays the following key performance indicators (KPIs) for the selected product:
+   - Product Full Name
+   - Product ID
+   - Sales Amount
+   - Sales Units
+   - Number of Returns
+   - Number of Reviews
+
+   Additionally, the tooltip includes an area chart depicting the number of units sold monthly for the selected product. This interactive feature provides users with comprehensive insights into the performance and sales trends of individual products.
+
    - Includes an area chart showing the number of units sold monthly.
 
 3. **Product View:**
    
-![Alt Text](image_url)
+
+![Screenshot 2024-02-18 163349](https://github.com/Prajwal-101/Amazon-Sales-Insights-Dashboard-Power-BI/assets/159109640/f85fdd7e-ad0b-4530-81f6-c8075e993666)
+
+
 
    - Acts as a zoomed-out version of the tooltip.
    - Enables filtering of product sales details using a date calendar to choose the desired duration for sales and units data.
