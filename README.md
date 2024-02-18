@@ -16,7 +16,7 @@ Created 3 major pages which are "Overview", "Product", and "Product View" and al
 
 1. **Overview:**
 
-![Alt Text](image_url)
+![Screenshot 2024-02-18 163127](https://github.com/Prajwal-101/Amazon-Sales-Insights-Dashboard-Power-BI/assets/159109640/4cadbcd5-63aa-41eb-9ef2-546d77a77a5f)
 
    - Serves as the homepage of the dashboard.
    - Includes a slicer displaying product categories.
