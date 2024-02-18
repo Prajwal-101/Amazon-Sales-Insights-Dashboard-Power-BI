@@ -28,7 +28,8 @@ Created 3 major pages which are "Overview", "Product", and "Product View" and al
 
 2. **Product:**
    
-![Alt Text](image_url)
+![Screenshot 2024-02-18 163300](https://github.com/Prajwal-101/Amazon-Sales-Insights-Dashboard-Power-BI/assets/159109640/665fd131-cb60-4a56-b198-d6ae13d7d2e6)
+
    - Displays all products available in each category.
    - Utilizes a Tooltip of "Product View" page to show detailed product information including full name, ID, sales amount, sales units, returns, and reviews as KPIs.
    - Includes an area chart showing the number of units sold monthly.
